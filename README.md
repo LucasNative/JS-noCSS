@@ -1,7 +1,7 @@
 # JS-noCSS É uma proposta de estudo descontraido. :doughnut:
 
 ### Essa foi a primeira página que fiz sem utilizar aquivo CSS.
-### A estilização e a incersão de textos foram feitas somente com JavaScript.
+### A estilização e a insersão de textos foram feitas somente com JavaScript.
 
 :warning:*A página é bem simples, mas não é assim que coisas complexas são construidas?*
 
