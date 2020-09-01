@@ -3,9 +3,9 @@
 ### Essa foi a primeira página que fiz sem utilizar aquivo CSS.
 ### A estilização e a insersão de textos foram feitas somente com JavaScript.
 
-:warning:*A página é bem simples, mas não é assim que coisas complexas são construidas?*
+:warning: *A página é bem simples, mas não é assim que coisas complexas são construidas?*
 
-#### Acesse o link: https://lucasnative.github.io/JS-noCSS/
+#### :coffee: Acesse o link: https://lucasnative.github.io/JS-noCSS/
 
 ### Página inicial: 
 ![nocss](https://user-images.githubusercontent.com/65367775/91763737-69ca7680-ebac-11ea-9685-ac983cb0cc17.png)
