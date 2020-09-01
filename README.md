@@ -5,7 +5,7 @@
 
 :warning:*A página é bem simples, mas não é assim que coisas complexas são construidas?*
 
-#### Sugiro clonar esse repositório e rodar com live-server para interagir com o botão.
+#### Acesse o link: https://lucasnative.github.io/JS-noCSS/
 
 ### Página inicial: 
 ![nocss](https://user-images.githubusercontent.com/65367775/91763737-69ca7680-ebac-11ea-9685-ac983cb0cc17.png)
